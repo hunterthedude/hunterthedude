@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about Shopify store setups and Development
 - 😄 Pronouns: he/him
-!<-- - 📫 How to reach me:  -->
